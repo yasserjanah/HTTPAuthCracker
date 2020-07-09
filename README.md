@@ -1,5 +1,7 @@
 # HTTPAuthCracker
-Brute forcing HTTP Basic Authentication
+Brute forcing HTTP Basic Authentication, written with python
+
+there is a faster version written with Go  [Here](https://github.com/yasserjanah/BasicAuthBruteForcer)
 
 ```
     [+] AUTOR:        Yasser Janah
